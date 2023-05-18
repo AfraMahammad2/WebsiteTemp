@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Maven+Pro&family=Poppins&display=swap');
+body {
+    background-color: #93CDFB ;
+    font-family: 'Maven Pro', sans-serif;
+}
+img {
+    width: 300px;
+}
+
+p {
+    margin-left: 100px;
+}
+
+.heyClass {
+    color: red;
+}
+
+section{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 60vh;
+    background-image: url(me.png);
+    background-position: center;
+    background-size: cover;
+    color:white;
+    margin: 8px;
+    
+}
